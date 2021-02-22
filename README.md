@@ -1,4 +1,4 @@
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment. (🚫 Remove this paragraph after after checking off completed user stories)
+📝 `NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment. 
 
 ## Flix Part 2
 
@@ -15,7 +15,7 @@
 ### App Walkthrough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="http://g.recordit.co/gg92lpZv3V.gif" width=250><br>
+<img src="http://g.recordit.co/wUGzs0NEH1.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
